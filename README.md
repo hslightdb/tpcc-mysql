@@ -1,3 +1,4 @@
+0. First, install MySQL dev lib rpm, at least libmysqlclient-dev. Can be downloaded from MySQL website https://dev.mysql.com/downloads/mysql/. To be simple, prefer rpm install than source install or binary.
 1. Build binaries
    * `cd src ; make`
    ( you should have mysql_config available in $PATH)
